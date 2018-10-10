@@ -1,0 +1,11 @@
+1) install matlab
+2) install gstreamer-sdk
+3) install Silk-Subversion
+
+!!! Restart Computer !!!
+
+4) install psychophysics toolbox
+copy 'toolbox' to 'C:\'
+install psychtoolbox by typing the following commands in MATLAB:
+cd C:/toolbox
+DownloadPsychtoolbox('C:/toolbox')

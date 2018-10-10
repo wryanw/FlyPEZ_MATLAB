@@ -1,0 +1,5 @@
+1) install matlab
+2) install photron SA-4 or SA-X
+3) place .dll files from the photron sdk in the MATLAB_flyPEZ_control_software directory
+4) install NI-DAQ
+Restart Computer
